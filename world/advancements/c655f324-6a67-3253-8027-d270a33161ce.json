@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2022-09-22 21:05:43 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-09-06 21:47:34 +1000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-09-05 22:23:20 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
     },
     "done": true
   },
@@ -116,6 +128,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-09-05 22:23:20 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-09-22 21:05:43 +1000"
     },
     "done": true
   },
@@ -194,6 +212,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2022-09-05 20:56:42 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2022-09-22 21:05:43 +1000"
     },
     "done": true
   },
@@ -509,6 +533,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2022-09-21 20:04:30 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2022-09-08 21:27:54 +1000"
@@ -596,6 +632,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-09-05 22:23:20 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2022-09-21 19:59:25 +1000"
     },
     "done": true
   },
@@ -690,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-09-05 22:12:32 +1000"
@@ -711,6 +759,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2022-09-20 21:53:16 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2022-09-22 20:55:37 +1000"
     },
     "done": true
   },
@@ -798,6 +852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-09-11 22:56:18 +1000"
@@ -840,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2022-09-15 23:24:34 +1000"
@@ -873,6 +939,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-09-11 21:08:10 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-09-21 19:59:25 +1000"
     },
     "done": true
   },
@@ -924,6 +996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2022-09-11 22:57:26 +1000"
@@ -969,6 +1047,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2022-09-20 21:48:36 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2022-09-21 20:04:30 +1000"
     },
     "done": true
   },
@@ -1188,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-09-22 21:05:43 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2022-09-05 20:48:04 +1000"
@@ -1314,6 +1404,7 @@
       "minecraft:sparse_jungle": "2022-09-20 21:54:54 +1000",
       "minecraft:river": "2022-09-05 21:24:44 +1000",
       "minecraft:lukewarm_ocean": "2022-09-20 21:58:30 +1000",
+      "minecraft:stony_shore": "2022-09-21 19:51:22 +1000",
       "minecraft:dripstone_caves": "2022-09-05 21:02:04 +1000",
       "minecraft:cold_ocean": "2022-09-05 21:25:05 +1000",
       "minecraft:forest": "2022-09-05 20:47:46 +1000",
@@ -1438,6 +1529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-09-05 20:48:34 +1000"
@@ -1498,6 +1595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2022-09-05 20:45:03 +1000"
@@ -1552,6 +1655,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2022-09-05 20:58:16 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
     },
     "done": true
   },
@@ -1898,6 +2007,7 @@
       "cooked_beef": "2022-09-05 20:52:07 +1000",
       "baked_potato": "2022-09-06 21:36:48 +1000",
       "apple": "2022-09-05 20:49:16 +1000",
+      "pumpkin_pie": "2022-09-21 20:23:51 +1000",
       "bread": "2022-09-11 22:53:50 +1000",
       "cookie": "2022-09-20 20:55:05 +1000",
       "golden_carrot": "2022-09-05 21:25:48 +1000",
@@ -1909,6 +2019,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-09-05 20:48:12 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-09-21 19:59:25 +1000"
     },
     "done": true
   },
@@ -1927,6 +2043,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2022-09-15 22:06:46 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2022-09-21 19:59:25 +1000"
     },
     "done": true
   },
@@ -1981,6 +2103,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-09-11 22:56:18 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
     },
     "done": true
   },
@@ -2297,6 +2425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2022-09-22 21:05:43 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2022-09-05 22:12:50 +1000"
@@ -2384,6 +2518,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2022-09-05 21:45:57 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2022-09-22 21:05:43 +1000"
     },
     "done": true
   },
@@ -2516,6 +2656,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-09-05 20:45:57 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2022-09-22 21:05:43 +1000"
     },
     "done": true
   },
@@ -2687,6 +2833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2022-09-22 21:05:43 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-09-05 21:13:16 +1000"
@@ -2696,6 +2848,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-09-11 22:56:18 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2022-09-21 19:59:25 +1000"
     },
     "done": true
   },
@@ -2720,6 +2878,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-09-05 20:48:04 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
     },
     "done": true
   },
@@ -2786,6 +2950,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2022-09-11 21:08:10 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2022-09-21 19:59:25 +1000"
     },
     "done": true
   },
@@ -2933,6 +3103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2022-09-21 19:59:25 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-09-05 21:00:19 +1000"
@@ -2981,6 +3157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2022-09-21 19:59:25 +1000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2022-09-11 22:57:26 +1000"
@@ -3008,6 +3190,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2022-09-15 22:06:37 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-09-21 19:59:25 +1000"
     },
     "done": true
   },
@@ -3048,6 +3236,24 @@
       "minecraft:ragdoll": "2022-09-20 20:51:37 +1000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-09-22 21:05:43 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-09-22 21:26:04 +1000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
